@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harness.Sample.DI", "Harness.Sample.DI\Harness.Sample.DI.csproj", "{E48080F2-ED96-43FD-AC7E-4AFC4FE92A5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harness.Sample.DI.Tests", "Harness.Sample.DI.Tests\Harness.Sample.DI.Tests.csproj", "{C7D7D405-02C8-4A7C-9B34-28DA7F23AC4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E48080F2-ED96-43FD-AC7E-4AFC4FE92A5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E48080F2-ED96-43FD-AC7E-4AFC4FE92A5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E48080F2-ED96-43FD-AC7E-4AFC4FE92A5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E48080F2-ED96-43FD-AC7E-4AFC4FE92A5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7D7D405-02C8-4A7C-9B34-28DA7F23AC4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7D7D405-02C8-4A7C-9B34-28DA7F23AC4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7D7D405-02C8-4A7C-9B34-28DA7F23AC4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7D7D405-02C8-4A7C-9B34-28DA7F23AC4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4394B0AC-A413-4B3A-A5C6-CD330038A896}
+	EndGlobalSection
+EndGlobal
